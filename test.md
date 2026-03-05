@@ -1,5 +1,5 @@
 ---
 title: Test page
-layout: home
+layout: default
 ---
 Here's another home page layout
