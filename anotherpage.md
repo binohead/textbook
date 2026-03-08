@@ -1,5 +1,5 @@
 ---
-title: Post page
-layout: post
+title: Another page
+layout: default
 ---
-Here's a post layout.
+Here's another home page layout.
